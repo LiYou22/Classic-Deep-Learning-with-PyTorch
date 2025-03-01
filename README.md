@@ -1,5 +1,7 @@
-# Classical Models in Computer Vision
+# Classic-CV-PyTorch
 
-## 1. UNet
+This repo is the implementations of classic computer vision models using Pytorch
 
-A simple implementation of UNet with PyTorch on brain tumor segmentation task
+## Models Included
+* Segmentation: U-Net
+

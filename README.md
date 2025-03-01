@@ -1,2 +1,5 @@
-# brain_tumor_segmentation_with_unet
+# Classical Models in Computer Vision
+
+## 1. UNet
+
 A simple implementation of UNet with PyTorch on brain tumor segmentation task

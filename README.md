@@ -1,7 +1,14 @@
-# Classic-CV-PyTorch
+# Classic-Deep-Learning-with-PyTorch
 
-This repo is the implementations of classic computer vision models using Pytorch
+This repo contains the implementations of classic deep learning models using Pytorch
 
 ## Models Included
-* Segmentation: U-Net
+
+### Vision
+
+#### Segmentation Task: 
+
+##### U-Net
+
+### Graph Neural Networks
 
